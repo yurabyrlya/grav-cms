@@ -1,0 +1,25 @@
+email: yurabyrlya@mail.ru
+fullname: yura
+title: Administrator
+state: enabled
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+    cache: 'true'
+    configuration: 'true'
+    configuration_system: 'true'
+    configuration_site: 'true'
+    configuration_media: 'true'
+    configuration_info: 'true'
+    settings: 'true'
+    pages: 'true'
+    maintenance: 'true'
+    statistics: 'true'
+    plugins: 'true'
+    themes: 'true'
+    users: 'true'
+  site:
+    login: 'true'
+hashed_password: $2y$10$AA10Kf7J5VtkHSpY3dVcpefrstmtLruxJt5E0mxP1WxzUO65aQw1u
+language: ru
